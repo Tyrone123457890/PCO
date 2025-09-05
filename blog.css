@@ -1,0 +1,98 @@
+style>
+    body {
+      font-family: 'Times New Roman', Times, serif;
+      margin: 40px;
+      background-color: white;
+      color: black;
+    }
+    h1 {
+      text-align: center;
+      color: black;
+    }
+    .blog-post {
+      background-color: white;
+      border: 1px solid black;
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 30px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+    .blog-post h2 {
+      color: blue;
+      margin-top: 0;
+    }
+    .blog-post p {
+      line-height: 1.6;
+    }
+    .blog-post a {
+      display: inline-block;
+      margin-top: 10px;
+      color: blue;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .blog-post a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Career Orientation Blog Feed</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: white;
+      margin: 40px;
+      color: black;
+    }
+
+    h1 {
+      text-align: center;
+      color: black;
+      font-size: 2.5em;
+      margin-bottom: 40px;
+    }
+
+    .blog-post {
+      background-color: white;
+      border-radius: 10px;
+      padding: 25px;
+      margin-bottom: 30px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+      transition: box-shadow 0.3s ease;
+    }
+
+    .blog-post:hover {
+      box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+    }
+
+    .blog-post h2 {
+      color: black;
+      margin-top: 0;
+      font-size: 1.8em;
+    }
+
+    .blog-post p {
+      font-size: 1em;
+      line-height: 1.6;
+      margin: 10px 0;
+    }
+
+    .blog-post a {
+      display: inline-block;
+      margin-top: 10px;
+      color: blue;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .blog-post a:hover {
+      text-decoration: underline;
+    }
+  </style>
+

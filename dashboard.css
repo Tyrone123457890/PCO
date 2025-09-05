@@ -1,0 +1,75 @@
+<style>
+    body {
+      font-family: 'Times New Roman', Times, serif;
+      margin: 40px;
+    }
+    h1 {
+      color: black;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 30px;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 12px;
+      text-align: center;
+    }
+    th {
+      background-color:gray;
+    }
+    .sufficient {
+      background-color:yellow;
+    }
+    .insufficient {
+      background-color: pink;
+    }
+    .not-yet {
+      background-color: orange;
+    }
+    .progress-bar {
+      margin-top: 20px;
+      background-color: white;
+      border-radius: 5px;
+      overflow: hidden;
+      height: 30px;
+    }
+    .progress {
+      height: 100%;
+      background-color: green;
+      text-align: center;
+      color: white;
+      line-height: 30px;
+    }
+    .note {
+      font-size: 14px;
+      color: #555;
+    }
+    aside {
+      background-color:bisque;
+      padding: 20px;
+      margin-top: 40px;
+      border-left: 4px solid blue;
+      border-radius: 5px;
+    }
+    aside h2 {
+      font-size: 20px;
+      margin-bottom: 15px;
+      color:black;
+    }
+    aside ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    aside li {
+      margin-bottom: 10px;
+    }
+    aside a {
+      text-decoration: none;
+      color: blue;
+    }
+    aside a:hover {
+      text-decoration: underline;
+    }
+  </style>
