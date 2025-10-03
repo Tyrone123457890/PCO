@@ -6,8 +6,7 @@
   top: -10px;
   left: -10px;
   box-sizing: border-box;
-  position:relative;
-
+  position: relative;
 }
 
 .navbar a {
@@ -24,12 +23,6 @@ body {
   color: white;
 }
 
-<style>body {
-  font-family: 'Times New Roman', Times, serif;
-  background-color: red;
- 
-}
-
 h1 {
   color: black;
 }
@@ -37,7 +30,7 @@ h1 {
 table {
   width: 100%;
   border-collapse: collapse;
-  margin-top:20px;
+  margin-top: 20px;
   text-align: center;
   border: black;
 }
@@ -54,7 +47,6 @@ th {
 }
 
 .progress-bar {
-  background-color:;
   border-radius: 10px;
   overflow: hidden;
   height: 20px;
@@ -63,40 +55,6 @@ th {
 }
 
 .progress-fill {
-  background-color:;
   height: 100%;
   width: 30%;
 }
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

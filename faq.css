@@ -24,7 +24,7 @@
 body {
   font-family: 'Times New Roman', Times, serif;
   margin: 40px;
-  color:black;
+  color: black;
   background-image: url("../images/Pure-CSS-Animated-Background.gif");
 }
 
@@ -42,11 +42,11 @@ h1 {
 .faq-item {
   margin-bottom: 40px;
   padding: 20px;
-  background-image:url("../images/ranger-4df6c1b6.png");
-  
+  background-image: url("../images/ranger-4df6c1b6.png");
+
   border-radius: 8px;
   border: 1px solid black;
-  box-shadow: 0 2px 6px rgba(231, 229, 130, 0.05) ;
+  box-shadow: 0 2px 6px rgba(231, 229, 130, 0.05);
 }
 
 .faq-item h3 {
